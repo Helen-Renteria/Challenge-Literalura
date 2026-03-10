@@ -1,0 +1,16 @@
+# Compilados
+target/
+*.class
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+.DS_Store
+
+com/
