@@ -1,16 +1,10 @@
-# Compilados
 target/
 *.class
-
-# Logs
-*.log
-
-# IDE
-.idea/
+*.jar
+*.war
+.classpath
+.project
+.settings/
 .vscode/
+.idea/
 *.iml
-
-# Sistema
-.DS_Store
-
-com/
